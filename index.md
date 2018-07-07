@@ -1,4 +1,5 @@
 ![image](pinball machine.png)
+
 Picture of the pinball machine and it's two external controllers
 
 ## Description
