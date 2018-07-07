@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 ## Description
-[Link to PDF]({{ site.url }}/PinballProjectDescription.pdf)
+[Link to PDF](https://drawsome1.github.io/Pinball_Machine/PinballProjectDescription.pdf)
 
 You can use the [editor on GitHub](https://github.com/drawsome1/Pinball_Machine/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
