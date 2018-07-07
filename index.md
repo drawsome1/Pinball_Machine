@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+![image](pinball machine.png)
+picture of the pinball machine and it's two external controllers
 
 ## Description
 [Link to PDF](https://drawsome1.github.io/Pinball_Machine/PinballProjectDescription.pdf)
