@@ -4,6 +4,8 @@ picture of the pinball machine and it's two external controllers
 ## Description
 [Link to PDF](https://drawsome1.github.io/Pinball_Machine/PinballProjectDescription.pdf)
 
+this is to prove that it updated
+
 You can use the [editor on GitHub](https://github.com/drawsome1/Pinball_Machine/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
