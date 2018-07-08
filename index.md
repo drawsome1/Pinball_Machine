@@ -8,9 +8,7 @@ Picture of the pinball machine and it's two external controllers
 [Link to PDF](https://drawsome1.github.io/Pinball_Machine/PinballProjectDescription.pdf)
 
 ## Colaborators
-Richard Chum
-
-Kevin Tain
+**Richard Chum** and **Kevin Tain**
 
 this is to prove that it updated 5
 
