@@ -1,3 +1,5 @@
+## ECE 115 Disney Themed Pinball Machine
+
 ![image](pinball machine.png)
 
 Picture of the pinball machine and it's two external controllers
@@ -9,7 +11,7 @@ Picture of the pinball machine and it's two external controllers
 Richard Chum
 Kevin Tain
 
-this is to prove that it updated 3
+this is to prove that it updated 4
 
 You can use the [editor on GitHub](https://github.com/drawsome1/Pinball_Machine/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
