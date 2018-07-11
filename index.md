@@ -4,15 +4,21 @@
 Picture of the pinball machine and it's two external controllers
 ```
 
+
+
 ## Description
 [Link to PDF](https://drawsome1.github.io/Pinball_Machine/PinballProjectDescription.pdf)
+
+
 
 ## Collaborators
 **Richard Chum** and **Kevin Tain**
 
+
+
 ## Objective
 ```
-The purpose of this project is to have students familiarize themselves with
+	The purpose of this project is to have students familiarize themselves with
 rapid prototyping techniques. Going through the complete cycle of prototyping
 from sketch to testing. We implemented 3D printing and laser cutting to aid our
 prototyping. Along with obtaining the knowledge and mindset required for rapid
@@ -23,6 +29,7 @@ prototype we also focused on the design of the pinball machine. The pinball
 machine is completely modular that way if one part breaks the entire system
 still works. 
 ```
+
 
 # The Process
 We began with an initial sketch of what we hoped the pinball machine would look
@@ -41,16 +48,18 @@ On the way here we constructed testbeds for each component and improved upon
 each subsystem based on the results we recieved. After confirming our mechanical
 design we were also able to plan how each electrical component would be wired.
 
+
+
+![image](images/final CAD.png)
 ```
 Complete CAD of the final pinball machine design.
 ```
-![image](images/final CAD.png)
 
 
+![image](images/electrical schematic.jpg)
 ```
 A schematic of how our electrical components were connected.
 ```
-![image](images/electrical schematic.jpg)
 
 ## Key Highlights
 ### Controllers
@@ -79,6 +88,20 @@ corresponding side would elevate. As far as pinball machines go they are usually
 big, solid systems that do not allow for this tilting feature. It is also
 frowned upon to tilt the machine to aid the user, but we added it to increase the
 user's enjoyment.
+
+### The Evil Bee
+At the center of the playfield we have a rotating wall that moves back and
+forth. The purpose of this wall is to make it difficult for one to hit the ball
+into the castle as well as increase the difficulty of the game.
+
+On this wall we have a sticker of a bee because both the bee and the wall
+have similar characteristics. While testing our code we found a bug that we
+couldn't really find the solution to, we looked it up online and it's called
+buzzing. When a servo motor buzzes it twitches as it moves along it's path. We
+thought it would be funny to put the sticker of the bee because bees also buzz.
+The buzzing of the wall is an unintentional feature but a funny one. 
+
+
 
 ## Demonstration
 Featured on the UC San Diego Jacobs School of Engineering facebook
