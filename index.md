@@ -1,7 +1,6 @@
 ## ECE 115 Disney Themed Pinball Machine
-```
 ![image](pinball machine.png)
-
+```
 Picture of the pinball machine and it's two external controllers
 ```
 
@@ -29,7 +28,7 @@ still works.
 We began with an initial sketch of what we hoped the pinball machine would look
 like
 
-![image](initial sketch.png)
+![image](images/initial sketch.png)
 
 ### Mechanical Design Specification
 ```
@@ -55,16 +54,16 @@ On the way here we constructed testbeds for each component and improved upon
 each subsystem based on the results we recieved. After confirming our mechanical
 design we were also able to plan how each electrical component would be wired.
 
-```
 ![image](final CAD.png)
 
+```
 Complete CAD of the final pinball machine design.
 
 ```
 
-```
 ![image](electrical schematic.jpg)
 
+```
 A schematic of how our electrical components were connected.
 ```
 
@@ -72,5 +71,5 @@ A schematic of how our electrical components were connected.
 
 
 
-this is to prove that it updated 5
+this is to prove that it updated 6
 
