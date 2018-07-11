@@ -1,8 +1,9 @@
 ## ECE 115 Disney Themed Pinball Machine
-
+```
 ![image](pinball machine.png)
 
 Picture of the pinball machine and it's two external controllers
+```
 
 ## Description
 [Link to PDF](https://drawsome1.github.io/Pinball_Machine/PinballProjectDescription.pdf)
@@ -10,40 +11,66 @@ Picture of the pinball machine and it's two external controllers
 ## Collaborators
 **Richard Chum** and **Kevin Tain**
 
-this is to prove that it updated 5
-
-You can use the [editor on GitHub](https://github.com/drawsome1/Pinball_Machine/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Objective
+```
+The purpose of this project is to have students familiarize themselves with
+rapid prototyping techniques. Going through the complete cycle of prototyping
+from sketch to testing. We implemented 3D printing and laser cutting to aid our
+prototyping. Along with obtaining the knowledge and mindset required for rapid
+prototyping we also learned how to operate Servo motors, Solenoids, IR Sensors,
+Piezo Dielectric, buttons, 7-Segment LEDs as well as different types of
+mechanical joints. Additionally, as we developed the ability to rapidly
+prototype we also focused on the design of the pinball machine. The pinball
+machine is completely modular that way if one part breaks the entire system
+still works. 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# The Process
+We began with an initial sketch of what we hoped the pinball machine would look
+like
 
-### Jekyll Themes
+![image](initial sketch.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drawsome1/Pinball_Machine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Mechanical Design Specification
+```
+1. Maximum length of the board must be less than or equal to 24 inches
+2. Maximum width of the board myst be less than or equal to 12 inches
+3. Minimum width of the walls on the playfield must be greater than or equal to
+10mm
+4. Minimum distance between walls must be greater than or equal to 15mm
+5. Minimum distance height of the playfield must be greater than 30mm
+6. Ball must naturally fall down towards paddles
+7. The angle of the playfield must be between 0 degrees and 45 degrees
+8. Minimum width of the ramp must be greater than or equal to 15mm
+```
 
-### Support or Contact
+Then we developed a cardboard prototype to test the feasability of our design
+concepts.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![image](cardboard prototype.jpg)
+
+After multiple iterations of the pinball machine we were able to develop our
+final CAD (Computer Aided Design) of the pinball machine on AutoDesk Fusion360. 
+On the way here we constructed testbeds for each component and improved upon 
+each subsystem based on the results we recieved. After confirming our mechanical
+design we were also able to plan how each electrical component would be wired.
+
+```
+![image](final CAD.png)
+
+Complete CAD of the final pinball machine design.
+
+```
+
+```
+![image](electrical schematic.jpg)
+
+A schematic of how our electrical components were connected.
+```
+
+
+
+
+
+this is to prove that it updated 5
+
