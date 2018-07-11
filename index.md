@@ -18,7 +18,7 @@ Picture of the pinball machine and it's two external controllers
 
 ## Objective
 ```
-	The purpose of this project is to have students familiarize themselves with
+The purpose of this project is to have students familiarize themselves with
 rapid prototyping techniques. Going through the complete cycle of prototyping
 from sketch to testing. We implemented 3D printing and laser cutting to aid our
 prototyping. Along with obtaining the knowledge and mindset required for rapid
