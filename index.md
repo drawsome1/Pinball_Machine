@@ -28,20 +28,7 @@ still works.
 We began with an initial sketch of what we hoped the pinball machine would look
 like
 
-![image](images/initial sketch.png)
-
-### Mechanical Design Specification
-```
-1. Maximum length of the board must be less than or equal to 24 inches
-2. Maximum width of the board myst be less than or equal to 12 inches
-3. Minimum width of the walls on the playfield must be greater than or equal to
-10mm
-4. Minimum distance between walls must be greater than or equal to 15mm
-5. Minimum distance height of the playfield must be greater than 30mm
-6. Ball must naturally fall down towards paddles
-7. The angle of the playfield must be between 0 degrees and 45 degrees
-8. Minimum width of the ramp must be greater than or equal to 15mm
-```
+<img src="images/initial sketch.png">
 
 Then we developed a cardboard prototype to test the feasability of our design
 concepts.
